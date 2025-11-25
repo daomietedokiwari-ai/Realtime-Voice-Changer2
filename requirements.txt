@@ -1,0 +1,8 @@
+flask
+numpy
+soundfile
+librosa
+torch
+torchaudio
+scipy
+pydub
